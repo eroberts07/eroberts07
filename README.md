@@ -1,4 +1,4 @@
-Hello, I'm Eric Roberts Aspiring Software Engineer. 
+Hello, I'm Eric Roberts, aspiring Software Engineer. 
 I'm interested in using my creativity and intuition to create Full-Stack web applications.
 I'm currently learning Javascript algorithms by making games.
 Looking forward to your feedback on my projects!
