@@ -1,6 +1,6 @@
 Hello, I'm Eric Roberts Aspiring Software Engineer. 
 I'm interested in using my creativity and intuition to create Full-Stack web applications.
-I'm currently learning React in the MERN stack.
+I'm currently learning Javascript algorithms by making games.
 Looking forward to your feedback on my projects!
 Contact me at eric.roberts401@gmail.com
 
